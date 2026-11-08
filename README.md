@@ -2,7 +2,7 @@
 
 An interactive, static HTML professional book by **Deenadayaalan Thirugnanasambandam**.
 
-**Independent personal publication.** The interpretations and proposed methodology are the author's opinions, not the official views, approved approaches, policies or endorsements of Amazon, AWS, any current or former employer, client, partner or other company. The Harbour Bank case study is fictional. See [DISCLAIMER.md](DISCLAIMER.md).
+**Independent personal publication.** The interpretations and proposed methodology express the author's personal professional views. The Harbour Bank case study is fictional. See [DISCLAIMER.md](DISCLAIMER.md).
 
 ## GitHub Pages
 
