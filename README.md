@@ -1,5 +1,10 @@
 # The Four Lenses of Banking Modernisation
 
+## Central thesis
+
+**Context engineering makes application modernisation repeatable, explainable and verifiable.** The four lenses determine whether the context is **meaningful** (ontology), **trustworthy** (epistemology), **appropriately governed** (axiology), and **useful to the people who depend on the system** (phenomenology).
+
+
 An interactive, static HTML professional book by **Deenadayaalan Thirugnanasambandam**.
 
 **Independent personal publication.** The interpretations and proposed methodology express the author's personal professional views. The Harbour Bank case study is fictional. See [DISCLAIMER.md](DISCLAIMER.md).
