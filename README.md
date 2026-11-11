@@ -1,5 +1,10 @@
 # The Four Lenses of Banking Modernisation
 
+## Illustrated edition
+
+The interactive HTML book includes eight self-contained, accessible chapter illustrations: the opening signature architecture, Harbour Bank repayment-date flow, ontology concepts, bounded contexts, data harness, agentic harness, legacy-to-target migration, and release evidence pack. These visuals are embedded directly into `index.html` so GitHub Pages needs no additional image assets. The standalone publication package contains the colourful opening graphic and high-resolution illustrations for Word/PDF use.
+
+
 ## Central thesis
 
 **Context engineering makes application modernisation repeatable, explainable and verifiable.** The four lenses determine whether the context is **meaningful** (ontology), **trustworthy** (epistemology), **appropriately governed** (axiology), and **useful to the people who depend on the system** (phenomenology).
