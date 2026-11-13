@@ -1,5 +1,14 @@
 # The Four Lenses of Banking Modernisation
 
+## Chapter-specific black-and-white diagrams and configurable workflows
+
+The Illustrated Workflow Edition contains **102 navigable sections**, including **101 distinct chapter-specific monochrome diagrams** and a new chapter on **configurable ontology-informed orchestration**.
+
+Diagrams are embedded as inline SVG in `index.html`. They cover domain boundaries, evidence chains, API/event sequences, decision gates, agent control loops, migration and release workflows.
+
+The browser-based Workflow Studio provides synthetic **mortgage servicing, payments exception and AML investigation** examples. Readers can change the workflow stages, evidence and ontology context, agent/skill assignments, exit criteria and reviewer decisions; choose to advance or revisit a stage with an audit reason; and export the configuration as JSON. This is an educational simulator only, and **does not call AI services or execute banking transactions**.
+
+
 ## Monochrome Illustrated Edition (November 2026)
 
 The interactive professional book now includes a black-and-white explanatory diagram for each of its 101 navigable sections. All diagrams are embedded as inline SVG within `index.html`, preserving static GitHub Pages compatibility, chapter navigation and search. The illustrations are schematic teaching aids and the fictional Harbour Bank examples remain illustrative.
