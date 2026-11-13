@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1540" viewBox="0 0 1100 1540" role="img" aria-labelledby="title desc">
+<title id="title">Context Engineering Signature Architecture — black-and-white illustrated flow</title>
+<desc id="desc">Business intent flows through the Context Engineering Layer, then parallel Data Harness and Ontology/DDD, then Agentic Harness, to Verified business outcome; all evaluated through the Four Lenses.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#111}
+.title{font-size:34px;font-weight:700}.subtitle{font-size:22px}.section{font-size:31px;font-weight:700;fill:#fff}
+.body{font-size:25px}.small{font-size:19px}.label{font-size:21px;font-weight:700}
+.icon{stroke:#111;stroke-width:6;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.box{fill:#fff;stroke:#111;stroke-width:3}
+.header{fill:#222}
+.arrow{stroke:#111;stroke-width:6;fill:none;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<rect x="0" y="0" width="1100" height="1540" fill="#fff"/>
+<!-- Header symbol and title -->
+<path d="M44 32 L75 15 105 32 75 49Z M44 52 L75 69 105 52 M44 72 L75 89 105 72" class="icon"/>
+<line x1="128" y1="14" x2="128" y2="96" stroke="#111" stroke-width="3"/>
+<text x="148" y="42" class="title">The Four Lenses of Banking Modernisation</text>
+<text x="148" y="76" class="subtitle">Context Engineering for Repeatable, Explainable and Verifiable Modernisation</text>
+<line x1="840" y1="14" x2="840" y2="96" stroke="#111" stroke-width="2"/>
+<text x="858" y="43" class="label">Context Engineering</text><text x="858" y="70" class="label">Signature Architecture</text>
+<!-- Business intent -->
+<rect x="64" y="132" width="972" height="180" rx="25" class="box"/>
+<line x1="246" y1="152" x2="246" y2="289" stroke="#111" stroke-width="2"/>
+<circle cx="154" cy="194" r="21" class="icon"/>
+<path d="M106 255 C108 213 199 212 202 255" class="icon"/>
+<path d="M185 156 h40 q12 0 12 13 v22 q0 12-12 12 h-13 l-14 16 v-16 h-13 q-12 0-12-12 v-22 q0-13 12-13" class="icon" transform="translate(0 -12) scale(.8)"/>
+<rect x="264" y="150" width="753" height="53" rx="8" class="header"/>
+<text x="285" y="188" class="section">Business intent</text>
+<text x="285" y="240" class="body">Customer requests a change to their mortgage</text>
+<text x="285" y="273" class="body">repayment date</text>
+<path d="M550 315 V352 m-15-15 15 15 15-15" class="arrow"/>
+<!-- Context engineering -->
+<rect x="64" y="367" width="972" height="145" rx="25" class="box"/>
+<line x1="246" y1="383" x2="246" y2="494" stroke="#111" stroke-width="2"/>
+<circle cx="155" cy="436" r="28" class="icon"/>
+<path d="M155 385 v-13 m0 128 v-13 m-51-51 H91 m128 0 h-13 m-87-36-9-9 m91 91-9-9 m-82 9 9-9 m82-82-9 9" class="icon"/>
+<rect x="264" y="385" width="753" height="53" rx="8" class="header"/>
+<text x="285" y="423" class="section">Context Engineering Layer</text>
+<text x="285" y="480" class="body">Discover · Model · Govern · Assemble · Validate</text>
+<path d="M550 515 V551 m-15-15 15 15 15-15" class="arrow"/>
+<!-- Data harness -->
+<rect x="64" y="565" width="467" height="268" rx="25" class="box"/>
+<line x1="212" y1="582" x2="212" y2="815" stroke="#111" stroke-width="2"/>
+<ellipse cx="137" cy="640" rx="36" ry="14" class="icon"/>
+<path d="M101 640 v100 c0 20 72 20 72 0 V640 M101 676 c0 20 72 20 72 0 M101 708 c0 20 72 20 72 0" class="icon"/>
+<rect x="224" y="582" width="290" height="53" rx="8" class="header"/>
+<text x="243" y="621" class="section">Data Harness</text>
+<text x="243" y="674" class="body">Provenance, quality,</text>
+<text x="243" y="706" class="body">lineage, freshness,</text>
+<text x="243" y="738" class="body">test fixtures and</text>
+<text x="243" y="770" class="body">reconciliation</text>
+<!-- Ontology DDD -->
+<rect x="550" y="565" width="486" height="268" rx="25" class="box"/>
+<line x1="704" y1="582" x2="704" y2="815" stroke="#111" stroke-width="2"/>
+<circle cx="627" cy="635" r="13" class="icon"/>
+<circle cx="594" cy="713" r="13" class="icon"/>
+<circle cx="667" cy="713" r="13" class="icon"/>
+<path d="M621 648 601 700 M634 647 660 701 M607 714 h47" class="icon"/>
+<rect x="715" y="582" width="304" height="53" rx="8" class="header"/>
+<text x="734" y="621" class="section">Ontology / DDD</text>
+<text x="734" y="674" class="body">Business semantics,</text>
+<text x="734" y="706" class="body">entities, relationships,</text>
+<text x="734" y="738" class="body">invariants and context</text>
+<text x="734" y="770" class="body">boundaries</text>
+<path d="M550 836 V873 m-15-15 15 15 15-15" class="arrow"/>
+<!-- Agentic harness -->
+<rect x="64" y="890" width="972" height="153" rx="25" class="box"/>
+<line x1="246" y1="907" x2="246" y2="1024" stroke="#111" stroke-width="2"/>
+<rect x="110" y="932" width="89" height="69" rx="20" class="icon"/>
+<circle cx="136" cy="965" r="5" fill="#111"/><circle cx="173" cy="965" r="5" fill="#111"/>
+<path d="M135 983 q20 15 39 0 M154 932 v-16 M153 916 a6 6 0 1 0 0-12 a6 6 0 1 0 0 12" class="icon"/>
+<rect x="264" y="908" width="753" height="53" rx="8" class="header"/>
+<text x="285" y="946" class="section">Agentic Harness</text>
+<text x="285" y="993" class="body">Bounded planning · Tool execution · Policy gates ·</text>
+<text x="285" y="1023" class="body">Independent verification</text>
+<path d="M550 1047 V1084 m-15-15 15 15 15-15" class="arrow"/>
+<!-- Verified outcome -->
+<rect x="64" y="1100" width="972" height="153" rx="25" class="box"/>
+<line x1="246" y1="1117" x2="246" y2="1234" stroke="#111" stroke-width="2"/>
+<circle cx="155" cy="1175" r="45" class="icon"/><path d="M128 1173 l20 20 36-43" class="icon"/>
+<rect x="264" y="1118" width="753" height="53" rx="8" class="header"/>
+<text x="285" y="1156" class="section">Verified business outcome</text>
+<text x="285" y="1203" class="body">Correct schedule · No duplicate debit · Traceable</text>
+<text x="285" y="1232" class="body">decision · Customer notified</text>
+<!-- Four lenses -->
+<rect x="28" y="1282" width="1044" height="113" rx="18" class="box"/>
+<rect x="28" y="1282" width="207" height="113" rx="18" fill="#222"/>
+<text x="47" y="1321" class="label" style="fill:#fff">Evaluated</text><text x="47" y="1350" class="label" style="fill:#fff">through the</text><text x="47" y="1379" class="label" style="fill:#fff">Four Lenses</text>
+<g>
+<rect x="250" y="1298" width="196" height="79" rx="12" class="box"/>
+<text x="271" y="1330" class="label">Ontology</text><text x="271" y="1357" class="small">Meaningful</text>
+<rect x="454" y="1298" width="204" height="79" rx="12" class="box"/>
+<text x="472" y="1330" class="label">Epistemology</text><text x="472" y="1357" class="small">Trustworthy</text>
+<rect x="666" y="1298" width="167" height="79" rx="12" class="box"/>
+<text x="685" y="1330" class="label">Axiology</text><text x="685" y="1357" class="small">Governed</text>
+<rect x="841" y="1298" width="216" height="79" rx="12" class="box"/>
+<text x="855" y="1330" class="label">Phenomenology</text><text x="855" y="1357" class="small">Useful</text>
+</g>
+<text x="550" y="1441" font-size="27" font-weight="700" text-anchor="middle">Context engineering makes application modernisation</text>
+<text x="550" y="1475" font-size="27" font-weight="700" text-anchor="middle">repeatable, explainable and verifiable.</text>
+<line x1="30" y1="1494" x2="1070" y2="1494" stroke="#111" stroke-width="2"/>
+<text x="550" y="1525" font-size="17" text-anchor="middle">Four Lenses of Banking Modernisation | Deenadayaalan Thirugnanasambandam | Independent professional viewpoint | v1.1</text>
+</svg>
