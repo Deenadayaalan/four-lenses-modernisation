@@ -1,5 +1,12 @@
 # The Four Lenses of Banking Modernisation
 
+## Context-aligned build and test workflows
+
+The interactive book now includes three additional subchapters (81–83) that connect **Business Intent → Context Contract → Domain Model → Build Candidate → Independent Test Evidence → Human Review**. Build outputs and test runs retain business-intent IDs, context versions, invariant IDs, approved sources and review decisions. Failed tests or ambiguous evidence route back to the appropriate data, domain, build or test stage.
+
+The Workflow Studio includes a **Build & test modernisation** preset. It is a browser-based educational simulation, not a CI/CD deployment service or a live financial-processing engine.
+
+
 ## Chapter-specific black-and-white diagrams and configurable workflows
 
 The Illustrated Workflow Edition contains **102 navigable sections**, including **101 distinct chapter-specific monochrome diagrams** and a new chapter on **configurable ontology-informed orchestration**.
