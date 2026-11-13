@@ -1,5 +1,15 @@
 # The Four Lenses of Banking Modernisation
 
+## Ten-chapter professional SDLC edition (November 2026)
+
+The homepage `index.html` is now the **concise ten-chapter reading edition**, organised from business intent through discovery, context engineering, domain design, agentic orchestration, build, test, deploy, operations and scaling. It follows one illustrative Harbour Bank mortgage repayment-date-change journey and uses the consistent chapter rhythm **Why → What → How → Apply → Verify**.
+
+- **[Read the main book](./index.html)** — 10 main chapters, expandable subchapters, monochrome signature architecture and a browser-only configurable Workflow Studio.
+- **[Read the full technical reference edition](./full-technical-edition.html)** — preserved 106-section extended edition with detailed implementation labs, contract examples, edge cases and reference material.
+
+The technical reference is intentionally retained rather than deleting research details. The new homepage summarises and merges selected core sections; it is not a complete rewrite of every archived technical section. The Workflow Studio is educational and does not invoke external agents or execute banking operations.
+
+
 ## Context-aligned build and test workflows
 
 The interactive book now includes three additional subchapters (81–83) that connect **Business Intent → Context Contract → Domain Model → Build Candidate → Independent Test Evidence → Human Review**. Build outputs and test runs retain business-intent IDs, context versions, invariant IDs, approved sources and review decisions. Failed tests or ambiguous evidence route back to the appropriate data, domain, build or test stage.
