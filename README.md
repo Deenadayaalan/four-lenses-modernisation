@@ -1,5 +1,10 @@
 # The Four Lenses of Banking Modernisation
 
+## Monochrome Illustrated Edition (November 2026)
+
+The interactive professional book now includes a black-and-white explanatory diagram for each of its 101 navigable sections. All diagrams are embedded as inline SVG within `index.html`, preserving static GitHub Pages compatibility, chapter navigation and search. The illustrations are schematic teaching aids and the fictional Harbour Bank examples remain illustrative.
+
+
 ## Illustrated edition
 
 The interactive HTML book includes eight self-contained, accessible chapter illustrations: the opening signature architecture, Harbour Bank repayment-date flow, ontology concepts, bounded contexts, data harness, agentic harness, legacy-to-target migration, and release evidence pack. These visuals are embedded directly into `index.html` so GitHub Pages needs no additional image assets. The standalone publication package contains the colourful opening graphic and high-resolution illustrations for Word/PDF use.
